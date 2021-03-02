@@ -4,19 +4,22 @@ end
 addition(3, 5)
 
 def subtraction(num1, num2)
-  re
+  return num2 - num1
 end
+subtraction(3, 6)
 
 def division(num1, num2)
-
+  return num2 / num1
 end
+division(3, 6)
 
 def multiplication(num1, num2)
-
+  return num1 * num2
 end
+multiplication(4, 5)
 
 def modulo(num1, num2)
-
+  return num2 % num1
 end
 
 def square_root(num)

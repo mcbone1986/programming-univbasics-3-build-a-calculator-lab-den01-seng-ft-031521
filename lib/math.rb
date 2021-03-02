@@ -9,7 +9,7 @@ end
 subtraction(3, 6)
 
 def division(num1, num2)
-  return num2 / num1
+  return num1 / num2
 end
 division(3, 6)
 

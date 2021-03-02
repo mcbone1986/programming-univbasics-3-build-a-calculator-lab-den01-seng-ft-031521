@@ -4,7 +4,7 @@ end
 addition(3, 5)
 
 def subtraction(num1, num2)
-  return num2 - num1
+  return num1 - num2
 end
 subtraction(3, 6)
 
